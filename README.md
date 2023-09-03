@@ -1,4 +1,5 @@
 ### My Profile👀
+![](https://komarev.com/ghpvc/?username=haganenoubik)
 
 <!--
 **haganenoubik/haganenoubik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
