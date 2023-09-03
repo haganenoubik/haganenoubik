@@ -1,5 +1,5 @@
 ### Profile👀
-![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square)
+![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square&color=red)
 
 ### Skills（Still Learning...）
 
