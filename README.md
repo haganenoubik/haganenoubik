@@ -3,6 +3,8 @@
 ### 🚀 Skills（Still Learning...）
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,neovim)](https://skillicons.dev)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=haganenoubik&theme=onedark)](https://github.com/haganenoubik/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square&color=red)
 
 <!--
