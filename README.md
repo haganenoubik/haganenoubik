@@ -1,11 +1,11 @@
 ### 👀 Profile
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haganenoubik&show_icons=true&theme=github_dark)
+
 ### 🚀 Skills（Still Learning...）
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,neovim)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=haganenoubik&theme=nord)](https://github.com/haganenoubik/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square&color=red)
+![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square&color=blue)
 
 <!--
 **haganenoubik/haganenoubik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
