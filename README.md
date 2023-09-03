@@ -1,6 +1,6 @@
-### 👀Profile
+### 👀 Profile
 
-### 🚀Skills（Still Learning...）
+### 🚀 Skills（Still Learning...）
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,neovim)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square&color=red)
