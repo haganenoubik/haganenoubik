@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haganenoubik&show_icons=true&theme=github_dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🚀 Skills（Still Learning...）
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,neovim)](https://skillicons.dev)
 
