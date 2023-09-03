@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square&color=red)
 
 ### Skills（Still Learning...）
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,neovim)](https://skillicons.dev)
 <!--
 **haganenoubik/haganenoubik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
