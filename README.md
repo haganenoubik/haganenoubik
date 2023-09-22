@@ -1,6 +1,6 @@
 ### 👀 Profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haganenoubik&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haganenoubik&show_icons=true&count_private=true&theme=github_dark)
 
 <!--START_SECTION:waka-->
 
