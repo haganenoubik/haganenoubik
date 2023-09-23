@@ -1,6 +1,6 @@
 ### 👀 Profile
 
-[![GitHub stats](github-readme-stats-ppnd.vercel.app/api?username=haganenoubik)](https://github.com/haganenoubik/github-readme-stats)
+![GitHub stats](github-readme-stats-ppnd.vercel.app/api?username=haganenoubik)
 ![Top Langs](github-readme-stats-ppnd.vercel.app/api/top-langs/?username=haganenoubik&layout=compact)
 <!--START_SECTION:waka-->
 
