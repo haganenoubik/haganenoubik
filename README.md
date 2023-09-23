@@ -2,17 +2,7 @@
 
 ![GitHub stats](github-readme-stats-ppnd.vercel.app/api?username=haganenoubik)
 ![Top Langs](github-readme-stats-ppnd.vercel.app/api/top-langs/?username=haganenoubik&layout=compact)
-<!--START_SECTION:waka-->
-
-```txt
-Ruby         13 hrs 28 mins  ███████████████████░░░░░░   76.34 %
-Slim         2 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-Ezhil        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-```
-
-<!--END_SECTION:waka-->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haganenoubik)](https://github.com/haganenoubik/github-readme-stats)
 
 ### 🚀 Skills（Still Learning...）
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,neovim)](https://skillicons.dev)
