@@ -2,7 +2,7 @@
 
 ![GitHub stats](github-readme-stats-ppnd.vercel.app/api?username=haganenoubik)
 ![Top Langs](github-readme-stats-ppnd.vercel.app/api/top-langs/?username=haganenoubik&layout=compact)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haganenoubik)](https://github.com/haganenoubik/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haganenoubik)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Skills（Still Learning...）
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,neovim)](https://skillicons.dev)
