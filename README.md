@@ -1,7 +1,7 @@
 ### 👀 Profile
 
-[![Anurag's GitHub stats](https://git-hub-readme-stats-clone-hyd4.vercel.app/api?username=haganenoubik)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](github-readme-stats-ppnd.vercel.app/api/top-langs/?username=haganenoubik&layout=compact)
+[![Anurag's GitHub stats](https://git-hub-readme-stats-clone-hyd4.vercel.app/api?username=haganenoubik&theme=react)]
+![Top Langs](https://git-hub-readme-stats-clone-hyd4.vercel.app/api/top-langs/?username=haganenoubik&layout=compact&theme=react)
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haganenoubik&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Skills（Still Learning...）
