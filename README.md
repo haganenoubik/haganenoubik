@@ -5,7 +5,7 @@
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haganenoubik&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Skills（Still Learning...）
-[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,rails,tailwind,git,github,neovim,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,rails,javascript,tailwind,git,github,neovim,figma)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square&color=blue)
 
