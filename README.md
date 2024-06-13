@@ -4,7 +4,7 @@
 [![Top Langs](https://git-hub-readme-stats.vercel.app/api/top-langs/?username=haganenoubik&count_private=true&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Skills（Still Learning...）
-[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,rails,javascript,tailwind,git,github,neovim,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,rails,react,javascript,tailwind,git,github,vscode,neovim,figma)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=haganenoubik&style=flat-square&color=blue)
 
